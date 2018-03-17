@@ -13,8 +13,8 @@ As this is a project for my education, I will be using non-copyrighted stock med
 *The project will consist of 5 sections/parts, as follows:*
 
 1. Home/Landing Page
-Section 1 – Landing Hero Carousel.
-Section 2 – Information About the Artists.
+*Section 1* – Landing Hero Carousel.
+*Section 2* – Information About the Artists.
 
 2. Portfolio Page
 
@@ -23,3 +23,11 @@ Section 2 – Information About the Artists.
 4. Bookings Information and Form
 
 5. Ancillary – Navigation, etc.
+
+
+## **Functionality**
+
+### Home/Landing Page
+On the Landing Page, the two sections will serve to introduce users to the artists, their work, and to grab the attention of the users to draw them further into the website.
+
+The users will first see Section 1: a high definition image carousel, displaying some of the featured pieces of art. After scrolling down, they will find Section 2: a section with information on the two artists whose works are being featured.
